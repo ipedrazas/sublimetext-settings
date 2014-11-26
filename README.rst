@@ -2,6 +2,11 @@ My Sublime Text 3 Preferences
 -----------------------------
 
 * Install Sublime Text 3 - http://www.sublimetext.com/3
+
+    sudo add-apt-repository ppa:webupd8team/sublime-text-3 -y
+    sudo apt-get update -y
+    sudo apt-get install sublime-text-installer -y
+
 * Install Sublime Package Control - https://sublime.wbond.net/installation
 
 * Clone this repo::
