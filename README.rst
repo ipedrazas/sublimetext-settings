@@ -27,3 +27,5 @@ My Sublime Text 3 Preferences
  * ``SublimeLinter`` Lint your code!
  * ``SublimeLinter-pep8`` Use pep8 as lint
  * ``SublimeCodeIntel`` Code autocomplete
+
+TODO: script that installs all the plugins
